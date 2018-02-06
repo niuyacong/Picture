@@ -1,0 +1,6 @@
+F:\mygit\AllKindsOfPic\AllKindsOfPic\obj\Debug\AllKindsOfPic.csprojResolveAssemblyReference.cache
+F:\mygit\AllKindsOfPic\AllKindsOfPic\bin\Debug\AllKindsOfPic.dll
+F:\mygit\AllKindsOfPic\AllKindsOfPic\bin\Debug\AllKindsOfPic.pdb
+F:\mygit\AllKindsOfPic\AllKindsOfPic\bin\Debug\Gif.Components.dll
+F:\mygit\AllKindsOfPic\AllKindsOfPic\obj\Debug\AllKindsOfPic.dll
+F:\mygit\AllKindsOfPic\AllKindsOfPic\obj\Debug\AllKindsOfPic.pdb

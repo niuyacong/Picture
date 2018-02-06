@@ -17,7 +17,7 @@ namespace AllKindsOfPic
     /// </summary>
    public class CreateOverPic
     {
-       public static string CreateOverPic()
+       public static string COverPic()
        {
            //要合并图片部分
            string sourceImg = System.Web.HttpContext.Current.Server.MapPath("~/upload/s.png");

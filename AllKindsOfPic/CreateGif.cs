@@ -14,7 +14,7 @@ namespace AllKindsOfPic
         //Step 2:准备所有需要的图片,这里用directory表示
         //Step 3：生成gif,路径为 file
         //nyc 2018年2月2日15:52:04
-       public static string  CreateGif()
+       public static string  CGif()
        {
            string directory = @"F:\1";
            bool repeat = true;
